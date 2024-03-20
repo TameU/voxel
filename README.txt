@@ -1,0 +1,8 @@
+- Controls for the game are:
+  - A and D to move left and right.
+  - Spacebar to jump.
+  - Up and down arrows to move the slider.
+- Before starting, change the resolution to fit your monitor and FPS to your refresh rate.
+- The game closes for a restart when the settings are changed.
+- The "Create" button currently does not work.
+- There are currently 3 levels.
