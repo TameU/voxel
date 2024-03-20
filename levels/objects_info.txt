@@ -1,0 +1,2 @@
+CSV file format:
+shape, x, y, z, width, height, length, radius
